@@ -19,10 +19,11 @@
 # in the templates via {{ site.myvariable }}.
 
 domain: ghjuliasialelli.github.io
-title: My website
+title: Ghjulia Sialelli (she/her)
+logo: /assets/img/AIC_headshot_small.jpg
 email: gsialelli@ethz.ch
 description: >- # this means to ignore newlines until "baseurl:"
-  Ghjulia Sialelli, PhD candidate
+  PhD Candidate at ETH Zurich.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
