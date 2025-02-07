@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div style="display: flex; align-items: center;">
-  <img src="https://github.com/ghjuliasialelli/ghjuliasialelli.github.io/blob/main/assets/img/AIC_headshot_small.jpg" alt="Headshot" style="width:150px; border-radius: 8px; margin-right: 20px;">
+  <img src="./img/AIC_headshot_small.jpg" alt="Headshot" style="width:150px; border-radius: 8px; margin-right: 20px;">
     <div>
     <p>
         I am an <a href="https://ai.ethz.ch/" target="_blank">ETH AI Center</a> Doctoral fellow, supervised by Prof. Konrad Schindler (ETH, <a href="https://prs.igp.ethz.ch/" target="_blank">PRS</a>) and Prof. Jan Dirk Wegner (UZH, <a href="https://dm3l.uzh.ch/wegner" target="_blank">Ecovision</a>). My research lies at the frontier of computer vision and remote sensing to solve scientific questions in the environmental sciences. In particular, my current work focuses on high-resolution global mapping of above-ground biomass.
@@ -55,7 +55,7 @@ layout: default
 <table style="width:100%; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td style="width: 120px; padding: 10px; vertical-align: top;">
-      <img src="https://github.com/ghjuliasialelli/ghjuliasialelli.github.io/blob/main/assets/img/AGBD.png" alt="Publication Image" style="width:100px; border-radius: 8px;">
+      <img src="./img/AGBD.png" alt="Publication Image" style="width:100px; border-radius: 8px;">
     </td>
     <td style="padding: 10px; vertical-align: top;">
       <strong>AGBD: A Global-scale Biomass Dataset</strong><br>
