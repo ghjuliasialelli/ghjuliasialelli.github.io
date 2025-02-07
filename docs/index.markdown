@@ -2,11 +2,20 @@
 layout: default
 ---
 
-I am an [ETH AI Center](https://ai.ethz.ch/) Doctoral fellow, supervised by Prof. Konrad Schindler (ETH, [PRS](https://prs.igp.ethz.ch/)) and Prof. Jan Dirk Wegner (UZH, [Ecovision](https://dm3l.uzh.ch/wegner)). My research lies at the frontier of computer vision and remote sensing to solve scientific questions in the environmental sciences. In particular, my current work focuses on high-resolution global mapping of above-ground biomass.
+<div style="display: flex; align-items: center;">
+  <img src="assets/img/AIC_headshot_small.jpg" alt="Headshot" style="width:150px; border-radius: 8px; margin-right: 20px;">
+    <div>
+    <p>
+        I am an <a href="https://ai.ethz.ch/" target="_blank">ETH AI Center</a> Doctoral fellow, supervised by Prof. Konrad Schindler (ETH, <a href="https://prs.igp.ethz.ch/" target="_blank">PRS</a>) and Prof. Jan Dirk Wegner (UZH, <a href="https://dm3l.uzh.ch/wegner" target="_blank">Ecovision</a>). My research lies at the frontier of computer vision and remote sensing to solve scientific questions in the environmental sciences. In particular, my current work focuses on high-resolution global mapping of above-ground biomass.
+        <br><br>
+        I am also the co-founder and an active member of the AI + Environment Summit, a non-profit that organizes the <a href="https://summit.biodivx.org/" target="_blank">eponymous event</a>. The next iteration of the summit will take place on October 1st, so mark your calendars!
+        <br><br>
+        I did my MSc at ETH Zurich, and my undergrad at École Polytechnique (Paris).
+    </p>
+    </div>
+</div>
 
-I am also the co-founder and an active member of the AI + Environment Summit, a non-profit that organizes the [eponymous event](https://summit.biodivx.org/). The next iteration of the summit will take place on October 1st, so mark your calendars! 
 
-I did my MSc at ETH Zurich, and my undergrad at École Polytechnique (Paris).
 
 
 ## news
@@ -46,7 +55,7 @@ I did my MSc at ETH Zurich, and my undergrad at École Polytechnique (Paris).
 <table style="width:100%; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td style="width: 120px; padding: 10px; vertical-align: top;">
-      <img src="../assets/img/AGBD.png" alt="Publication Image" style="width:100px; border-radius: 8px;">
+      <img src="assets/img/AGBD.png" alt="Publication Image" style="width:100px; border-radius: 8px;">
     </td>
     <td style="padding: 10px; vertical-align: top;">
       <strong>AGBD: A Global-scale Biomass Dataset</strong><br>
