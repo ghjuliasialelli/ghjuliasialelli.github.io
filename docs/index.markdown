@@ -8,7 +8,7 @@ layout: default
     <p>
         I am an <a href="https://ai.ethz.ch/" target="_blank">ETH AI Center</a> Doctoral fellow, supervised by Prof. Konrad Schindler (ETH, <a href="https://prs.igp.ethz.ch/" target="_blank">PRS</a>) and Prof. Jan Dirk Wegner (UZH, <a href="https://dm3l.uzh.ch/wegner" target="_blank">Ecovision</a>). My research lies at the frontier of computer vision and remote sensing to solve scientific questions in the environmental sciences. In particular, my current work focuses on high-resolution global mapping of above-ground biomass.
         <br><br>
-        I am also the co-founder and an active member of the AI + Environment Summit, a non-profit that organizes the <a href="https://summit.biodivx.org/" target="_blank">eponymous event</a>. The next iteration of the summit will take place on October 1st, so mark your calendars!
+        I am also the co-founder and an active member of the AI + Environment Summit, a non-profit that organizes the <a href="https://ai-environment-summit.com/" target="_blank">eponymous event</a>. The next iteration of the summit will take place on October 1st, so mark your calendars!
         <br><br>
         I did my MSc at ETH Zurich, and my undergrad at École Polytechnique (Paris).
     </p>
