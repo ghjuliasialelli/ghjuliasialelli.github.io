@@ -21,12 +21,28 @@ layout: default
 ## news
 <table style="width:100%; border-collapse: collapse;">
   <tr>
+    <td style="width:20%; min-width:150px;"> April 2025</td>
+    <td style="width:80%;">Invited for a talk for the RISE Institute  <a href="https://www.ri.se/en/learningmachinesseminars" target="_blank">Learning Machines seminar series</a>. You can catch me (online) on May 8th, at 15:00 CET.</td>
+  </tr>
+  <tr>
+    <td style="width:20%; min-width:150px;"> April 2025</td>
+    <td style="width:80%;">Our work was selected for a poster presentation at the upcoming <a href="https://www.wids.ch/" target="_blank">Women in Data Science</a> conference in Zurich!</td>
+  </tr>
+  <tr>
+    <td style="width:20%; min-width:150px;">April 2025</td>
+    <td style="width:80%;">@ ISPRS GSW25 for an Oral Presentation of our AGBD paper — you can catch me at the Smart Forests and Agriculture workshop. </td>
+  </tr>
+  <tr>
+    <td style="width:20%; min-width:150px;"> March 2025</td>
+    <td style="width:80%;">Our work was selected for a poster presentation at the upcoming <a href="https://lps25.esa.int/" target="_blank">Living Planet Symposium</a> — see you in Vienna! </td>
+  </tr>
+  <tr>
     <td style="width:20%; min-width:150px;">February 2025</td>
     <td style="width:80%;">The AGBD dataset was featured in the <a href="https://mailchi.mp/3c2a6a700b85/climate-change-ai-newsletter-april-5844816?e=e3c5cd8083" target="_blank">Climate Change AI newsletter</a>!</td>
   </tr>
   <tr>
     <td style="width:20%; min-width:150px;">January 2025</td>
-    <td style="width:80%;">My first publication was accepted to the ISPRS Geospatial Week 2025!</td>
+    <td style="width:80%;">My first publication was accepted to the <a href="https://gsw2025.ae/" target="_blank">ISPRS Geospatial Week 2025</a>!</td>
   </tr>
   <tr>
     <td style="width:20%; min-width:150px;">January 2025</td>
@@ -34,19 +50,19 @@ layout: default
   </tr>
   <tr>
     <td style="width:20%; min-width:150px;">October 2024</td>
-    <td style="width:80%;">Organizing the AI+Environment Summit</td>
+    <td style="width:80%;">Organizing the <a href="https://summit.biodivx.org/" target="_blank">AI + Environment Summit</a></td>
   </tr>
   <tr>
     <td style="width:20%; min-width:150px;">September 2024</td>
-    <td style="width:80%;">Attending ECCV in Milan</td>
+    <td style="width:80%;">@ ECCV </td>
   </tr>
   <tr>
     <td style="width:20%; min-width:150px;">May 2024</td>
-    <td style="width:80%;">Organizing the AI+Environment Hackathon</td>
+    <td style="width:80%;">Organizing the <a href="https://hack.biodivx.org/" target="_blank">AI + Environment Hackathon</a></td>
   </tr>
   <tr>
     <td style="width:20%; min-width:150px;">November 2023</td>
-    <td style="width:80%;">Organizing the AI+Environment Summit</td>
+    <td style="width:80%;">Organizing the AI + Environment Summit</td>
   </tr>
   <tr>
     <td style="width:20%; min-width:150px;">September 2023</td>
