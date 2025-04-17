@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div style="display: flex; align-items: center;">
-  <img src="./img/AIC_headshot_small.jpg" alt="Headshot" style="width:150px; border-radius: 8px; margin-right: 20px;">
+  <img src="./img/AIC_headshot_small.jpg" alt="Headshot" style="width:150px; border-radius: 100px; margin-right: 20px;">
     <div>
     <p>
         I am a second year <a href="https://ai.ethz.ch/" target="_blank">ETH AI Center</a> Doctoral fellow, supervised by Prof. Konrad Schindler (ETH, <a href="https://prs.igp.ethz.ch/" target="_blank">PRS</a>) and Prof. Jan Dirk Wegner (UZH, <a href="https://dm3l.uzh.ch/wegner" target="_blank">Ecovision</a>). My research lies at the frontier of computer vision and remote sensing to solve scientific questions in the environmental sciences. In particular, my current work focuses on high-resolution global mapping of above-ground biomass.
@@ -16,9 +16,32 @@ layout: default
 </div>
 
 
+## 📝 publications
+<table style="width:100%; border-collapse: collapse; margin-bottom: 20px;">
+<div style="display: flex; align-items: center; gap: 24px; padding: 16px; border-radius: 16px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);">
+
+  <!-- Image on the left -->
+  <img src="./img/AGBD.png" alt="AGBD diagram" style="width: 350px; border-radius: 0px;">
+
+  <!-- Text on the right -->
+  <div>
+    <p style="margin: 0; font-size: 16px;">
+      <strong>AGBD: A Global-scale Biomass Dataset</strong> <span style="color: DarkBlue;">(ISPRS GSW 2025 Oral)</span><br>
+      <strong>Ghjulia Sialelli</strong>, Torben Peters, Jan D. Wegner, Konrad Schindler
+    </p>
+    <p style="margin: 8px 0;">
+      <a href="https://arxiv.org/abs/2406.04928" style="background-color: #f47cb4; color: white; padding: 4px 8px; border-radius: 8px; text-decoration: none; font-weight: bold;">🔗 arxiv</a>
+    </p>
+    <p style="margin: 0;">
+      We introduce a ML-ready dataset and benchmark models, for dense high-resolution global biomass estimation.
+    </p>
+  </div>
+
+</div>
+</table>
 
 
-## news
+## 🔥 news
 <table style="width:100%; border-collapse: collapse;">
   <tr>
     <td style="width:20%; min-width:150px;"> April 2025</td>
@@ -71,31 +94,15 @@ layout: default
 </table>
 
 
-## publications
-<table style="width:100%; border-collapse: collapse; margin-bottom: 20px;">
-  <tr>
-    <td style="width: 120px; padding: 10px; vertical-align: top;">
-      <img src="./img/AGBD.png" alt="Publication Image" style="width:100px; border-radius: 8px;">
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <strong>AGBD: A Global-scale Biomass Dataset</strong><br>
-      <em><strong>Ghjulia Sialelli</strong>, Torben Peters, Jan D. Wegner, Konrad Schindler</em><br><em>(2025) ISPRS Geospatial Week</em><br>
-      <a href="https://arxiv.org/abs/2406.04928" target="_blank" 
-         style="display: inline-block; padding: 6px 12px; background-color: #6cc967; 
-                color: white; text-decoration: none; border-radius: 5px; font-size: 14px;">
-        🔗 arxiv
-      </a>
-    </td>
-  </tr>
-</table>
 
-## supervision
+## 👩‍🎓 supervision
 * Chunyang Gao and Dominik Senti (MSc Semester Project), <a href="https://drive.google.com/file/d/1OlnVD6Fw6mD9KA-Fq-QacB2tlwu_EzBE/view?usp=sharing" target="_blank">ICESat-2 spaceborne LiDAR as complementary data source for biomass mapping</a> (2024)
 * Noah Kreyenkamp (BSc Thesis), <a href="https://drive.google.com/file/d/1eGPVt3_ir7LKXSMV_HRqwwAl80yHyU2h/view?usp=sharing" target="_blank">Developing a Data Pipeline for Global-Scale Biomass Mapping</a> (2024)
 * Nial Perry (MSc Thesis), <a href="https://drive.google.com/file/d/1nelZxR3u0_i0buubRSMh_8Um5go02oWb/view?usp=sharing" target="_blank">Optimizing Biomass Insights: A Multi-Armed Bandit Approach to Coreset Selection</a> (2024)
 * Guenole Joubioux (MSc Semester Project) and Angelika Nogueira (BSc Thesis) and Joel Reimann (BSc Thesis), Benchmarking of Earth Observation Foundation Models for Above-Ground Biomass Estimation (in progress) (2025)
 
-## links
+
+## 🔗 links
 <table style="width:100%; text-align:center; margin-top: 20px;">
   <tr>
     <td>
