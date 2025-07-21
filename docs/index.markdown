@@ -30,7 +30,10 @@ layout: default
       <strong>Ghjulia Sialelli</strong>, Torben Peters, Jan D. Wegner, Konrad Schindler
     </p>
     <p style="margin: 8px 0;">
-      <a href="https://arxiv.org/abs/2406.04928" style="background-color: #f47cb4; color: white; padding: 4px 8px; border-radius: 8px; text-decoration: none; font-weight: bold;">🔗 arxiv</a>
+      <a href="https://isprs-annals.copernicus.org/articles/X-G-2025/829/2025/" style="background-color: #f47cb4; color: white; padding: 4px 8px; border-radius: 8px; text-decoration: none; font-weight: bold;">🔗 PDF</a>
+    </p>
+    <p style="margin: 8px 0;">
+      <a href="https://agbdataset.github.io/" style="background-color:rgb(26, 207, 102); color: white; padding: 4px 8px; border-radius: 8px; text-decoration: none; font-weight: bold;">🔗 Project website</a>
     </p>
     <p style="margin: 0;">
       We introduce a ML-ready dataset and benchmark models, for dense high-resolution global biomass estimation.
@@ -43,6 +46,10 @@ layout: default
 
 ## 🔥 news
 <table style="width:100%; border-collapse: collapse;">
+  <tr>
+    <td style="width:20%; min-width:150px;"> June 2025</td>
+    <td style="width:80%;">In Vienna for the <a href="https://lps25.esa.int/" target="_blank">Living Planet Symposium 2025</a> — I will be presenting a poster on Friday at 1pm, for the <em>Advances in Monitoring and Management of Forest Ecosystems<em> session. (X5 – Poster Area – Zone F-G-H-I-J) </td>
+  </tr>
   <tr>
     <td style="width:20%; min-width:150px;"> April 2025</td>
     <td style="width:80%;">Invited for a talk for the RISE Institute  <a href="https://www.ri.se/en/learningmachinesseminars" target="_blank">Learning Machines seminar series</a>. You can catch me (online) on May 8th, at 15:00 CET.</td>
