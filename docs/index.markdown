@@ -108,8 +108,10 @@ layout: default
 * Nial Perry (MSc Thesis), <a href="https://drive.google.com/file/d/1nelZxR3u0_i0buubRSMh_8Um5go02oWb/view?usp=sharing" target="_blank">Optimizing Biomass Insights: A Multi-Armed Bandit Approach to Coreset Selection</a> (2024)
 * Guenole Joubioux (MSc Semester Project) and Angelika Nogueira (BSc Thesis) and Joel Reimann (BSc Thesis), <a href="https://drive.google.com/file/d/1_gt838-tLui6UUxpJgA1VLXtZ-zwyVNY/view?usp=sharing" target="_blank"> Benchmarking of Earth Observation Foundation Models for Above-Ground Biomass Estimation</a> (2025)
 
+
 ## 📰 media
 * <a href="https://ethz-foundation.ch/en/spotlight/uplift-20-ghjulia-sialelli-precision-for-the-planet/" target="_blank">Portrait: Precision for the planet</a>, by Andrea Zeller for the ETH Foundation Uplift magazine
+
 
 ## 🔗 links
 <table style="width:100%; text-align:center; margin-top: 20px;">
