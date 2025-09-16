@@ -17,7 +17,6 @@ layout: default
 
 
 ## 📝 publications
-<table style="width:100%; border-collapse: collapse; margin-bottom: 20px;">
 <div style="display: flex; align-items: center; gap: 24px; padding: 16px; border-radius: 16px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);">
 
   <!-- Image on the left -->
@@ -41,14 +40,13 @@ layout: default
   </div>
 
 </div>
-</table>
 
 
 ## 🔥 news
 <table style="width:100%; border-collapse: collapse;">
   <tr>
     <td style="width:20%; min-width:150px;"> June 2025</td>
-    <td style="width:80%;">In Vienna for the <a href="https://lps25.esa.int/" target="_blank">Living Planet Symposium 2025</a> — I will be presenting a poster on Friday at 1pm, for the <em>Advances in Monitoring and Management of Forest Ecosystems<em> session. (X5 – Poster Area – Zone F-G-H-I-J) </td>
+    <td style="width:80%;">In Vienna for the <a href="https://lps25.esa.int/" target="_blank">Living Planet Symposium 2025</a> — I will be presenting a poster on Friday at 1pm, for the <em>Advances in Monitoring and Management of Forest Ecosystems</em> session. (X5 – Poster Area – Zone F-G-H-I-J) </td>
   </tr>
   <tr>
     <td style="width:20%; min-width:150px;"> April 2025</td>
