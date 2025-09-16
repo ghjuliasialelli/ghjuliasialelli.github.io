@@ -106,8 +106,10 @@ layout: default
 * Chunyang Gao and Dominik Senti (MSc Semester Project), <a href="https://drive.google.com/file/d/1OlnVD6Fw6mD9KA-Fq-QacB2tlwu_EzBE/view?usp=sharing" target="_blank">ICESat-2 spaceborne LiDAR as complementary data source for biomass mapping</a> (2024)
 * Noah Kreyenkamp (BSc Thesis), <a href="https://drive.google.com/file/d/1eGPVt3_ir7LKXSMV_HRqwwAl80yHyU2h/view?usp=sharing" target="_blank">Developing a Data Pipeline for Global-Scale Biomass Mapping</a> (2024)
 * Nial Perry (MSc Thesis), <a href="https://drive.google.com/file/d/1nelZxR3u0_i0buubRSMh_8Um5go02oWb/view?usp=sharing" target="_blank">Optimizing Biomass Insights: A Multi-Armed Bandit Approach to Coreset Selection</a> (2024)
-* Guenole Joubioux (MSc Semester Project) and Angelika Nogueira (BSc Thesis) and Joel Reimann (BSc Thesis), Benchmarking of Earth Observation Foundation Models for Above-Ground Biomass Estimation (in progress) (2025)
+* Guenole Joubioux (MSc Semester Project) and Angelika Nogueira (BSc Thesis) and Joel Reimann (BSc Thesis), <a href="https://drive.google.com/file/d/1_gt838-tLui6UUxpJgA1VLXtZ-zwyVNY/view?usp=sharing" target="_blank"> Benchmarking of Earth Observation Foundation Models for Above-Ground Biomass Estimation</a> (2025)
 
+## 📰 media
+* <a href="https://ethz-foundation.ch/en/spotlight/uplift-20-ghjulia-sialelli-precision-for-the-planet/" target="_blank">Portrait: Precision for the planet</a>, by Andrea Zeller for the ETH Foundation Uplift magazine
 
 ## 🔗 links
 <table style="width:100%; text-align:center; margin-top: 20px;">
