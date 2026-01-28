@@ -6,9 +6,9 @@ layout: default
   <img src="./img/AIC_headshot_small.jpg" alt="Headshot" style="width:150px; border-radius: 100px; margin-right: 20px;">
     <div>
     <p>
-        I am a second year <a href="https://ai.ethz.ch/" target="_blank">ETH AI Center</a> Doctoral fellow, supervised by Prof. Konrad Schindler (ETH, <a href="https://prs.igp.ethz.ch/" target="_blank">PRS</a>) and Prof. Jan Dirk Wegner (UZH, <a href="https://dm3l.uzh.ch/wegner" target="_blank">Ecovision</a>). My research lies at the frontier of computer vision and remote sensing to solve scientific questions in the environmental sciences. In particular, my current work focuses on high-resolution global mapping of above-ground biomass.
+        I am a third year <a href="https://ai.ethz.ch/" target="_blank">ETH AI Center</a> Doctoral fellow, supervised by Prof. Konrad Schindler (ETH, <a href="https://prs.igp.ethz.ch/" target="_blank">PRS</a>) and Prof. Jan Dirk Wegner (UZH, <a href="https://dm3l.uzh.ch/wegner" target="_blank">Ecovision</a>). My research lies at the frontier of computer vision and remote sensing to solve scientific questions in the environmental sciences. In particular, my current work focuses on high-resolution global mapping of above-ground biomass.
         <br><br>
-        I am also the co-founder and an active member of the AI + Environment Summit, a non-profit that organizes the <a href="https://ai-environment-summit.com/" target="_blank">eponymous event</a>. The next iteration of the summit will take place on October 1st, so mark your calendars!
+        I am also the co-founder and an active member of the AI + Environment Summit, a non-profit that organizes the <a href="https://ai-environment-summit.com/" target="_blank">eponymous event</a>. 
         <br><br>
         I did my MSc at ETH Zurich, and my undergrad at École Polytechnique (Paris).
     </p>
@@ -43,64 +43,33 @@ layout: default
 
 
 ## 🔥 news
-<table style="width:100%; border-collapse: collapse;">
-  <tr>
-    <td style="width:20%; min-width:150px;"> June 2025</td>
-    <td style="width:80%;">In Vienna for the <a href="https://lps25.esa.int/" target="_blank">Living Planet Symposium 2025</a> — I will be presenting a poster on Friday at 1pm, for the <em>Advances in Monitoring and Management of Forest Ecosystems</em> session. (X5 – Poster Area – Zone F-G-H-I-J) </td>
-  </tr>
-  <tr>
-    <td style="width:20%; min-width:150px;"> April 2025</td>
-    <td style="width:80%;">Invited for a talk for the RISE Institute  <a href="https://www.ri.se/en/learningmachinesseminars" target="_blank">Learning Machines seminar series</a>. You can catch me (online) on May 8th, at 15:00 CET.</td>
-  </tr>
-  <tr>
-    <td style="width:20%; min-width:150px;"> April 2025</td>
-    <td style="width:80%;">Our work was selected for a poster presentation at the upcoming <a href="https://www.wids.ch/" target="_blank">Women in Data Science</a> conference in Zurich!</td>
-  </tr>
-  <tr>
-    <td style="width:20%; min-width:150px;">April 2025</td>
-    <td style="width:80%;">@ ISPRS GSW25 for an Oral Presentation of our AGBD paper — you can catch me at the Smart Forests and Agriculture workshop. </td>
-  </tr>
-  <tr>
-    <td style="width:20%; min-width:150px;"> March 2025</td>
-    <td style="width:80%;">Our work was selected for a poster presentation at the upcoming <a href="https://lps25.esa.int/" target="_blank">Living Planet Symposium</a> — see you in Vienna! </td>
-  </tr>
-  <tr>
-    <td style="width:20%; min-width:150px;">February 2025</td>
-    <td style="width:80%;">The AGBD dataset was featured in the <a href="https://mailchi.mp/3c2a6a700b85/climate-change-ai-newsletter-april-5844816?e=e3c5cd8083" target="_blank">Climate Change AI newsletter</a>!</td>
-  </tr>
-  <tr>
-    <td style="width:20%; min-width:150px;">January 2025</td>
-    <td style="width:80%;">My first publication was accepted to the <a href="https://gsw2025.ae/" target="_blank">ISPRS Geospatial Week 2025</a>!</td>
-  </tr>
-  <tr>
-    <td style="width:20%; min-width:150px;">January 2025</td>
-    <td style="width:80%;">Giving a tutorial on Generalization in ML for the eval.science <a href="https://docs.eval.science/learn/primer" target="_blank">Primer series</a></td>
-  </tr>
-  <tr>
-    <td style="width:20%; min-width:150px;">October 2024</td>
-    <td style="width:80%;">Organizing the <a href="https://summit.biodivx.org/" target="_blank">AI + Environment Summit</a></td>
-  </tr>
-  <tr>
-    <td style="width:20%; min-width:150px;">September 2024</td>
-    <td style="width:80%;">@ ECCV </td>
-  </tr>
-  <tr>
-    <td style="width:20%; min-width:150px;">May 2024</td>
-    <td style="width:80%;">Organizing the <a href="https://hack.biodivx.org/" target="_blank">AI + Environment Hackathon</a></td>
-  </tr>
-  <tr>
-    <td style="width:20%; min-width:150px;">November 2023</td>
-    <td style="width:80%;">Organizing the AI + Environment Summit</td>
-  </tr>
-  <tr>
-    <td style="width:20%; min-width:150px;">September 2023</td>
-    <td style="width:80%;">Starting my PhD at ETH!</td>
-  </tr>
-</table>
+<div style="height: 250px; overflow-y: scroll; border: 1px solid #eee; padding: 15px; border-radius: 8px; background-color: #fafafa;">
+
+* **January 2026** — Moderated a panel on Sustainable AI at the AI House Davos. Watch the [recording](https://www.youtube.com/watch?v=qLu7L8g-Wy4).
+* **December 2025** — At EurIPS Copenhagen, presenting a poster on our recent work on biomass estimation at the [Workshop on AI for Climate and Conservation](https://sites.google.com/g.harvard.edu/aicceurips).
+* **October 2025** — Chairing the [AI + Environment Summit 2025](https://ai-environment-summit.com/)! Watch the [recordings](https://www.youtube.com/playlist?list=PLHeEcDvb8uC_5L3Ie4xb7UFMjTAIySInq).
+* **June 2025** — At the [Living Planet Symposium](https://lps25.esa.int/) in Vienna presenting a poster on Forest Ecosystems.
+* **April 2025** — Invited talk for the [RISE Learning Machines](https://www.ri.se/en/learningmachinesseminars) series. Watch the [recording](https://www.youtube.com/watch?v=mN0ENzlrUJE&list=PLqLiVcF3GKy1tuQFoDu5QKOM6S33t_4R1&index=14).
+* **April 2025** — Poster presentation at [Women in Data Science](https://www.wids.ch/) Zurich.
+* **April 2025** — Oral Presentation at ISPRS GSW25 for our AGBD paper.
+* **February 2025** — AGBD dataset featured in the [Climate Change AI newsletter](https://mailchi.mp/3c2a6a700b85/climate-change-ai-newsletter-april-5844816?e=e3c5cd8083).
+* **January 2025** — First publication accepted to [ISPRS Geospatial Week 2025](https://gsw2025.ae/).
+* **January 2025** — Tutorial on Generalization in ML for the [eval.science Primer series](https://docs.eval.science/learn/primer).
+* **October 2024** — Chairing the [AI + Environment Summit 2024](https://summit.biodivx.org/).
+* **September 2024** — Attending ECCV.
+* **May 2024** — Supporting the [AI + Environment Hackathon](https://hack.biodivx.org/).
+* **November 2023** — Supporting the AI + Environment Summit 2023.
+* **September 2023** — Starting my PhD at ETH!
+
+</div>
 
 
 
 ## 👩‍🎓 supervision
+
+If you are a student interested in working on any of the following topics, feel free to reach out! Topics: super-resolution of remote-sensing products; long-tail distributions; 
+
+Past students
 * Chunyang Gao and Dominik Senti (MSc Semester Project), <a href="https://drive.google.com/file/d/1OlnVD6Fw6mD9KA-Fq-QacB2tlwu_EzBE/view?usp=sharing" target="_blank">ICESat-2 spaceborne LiDAR as complementary data source for biomass mapping</a> (2024)
 * Noah Kreyenkamp (BSc Thesis), <a href="https://drive.google.com/file/d/1eGPVt3_ir7LKXSMV_HRqwwAl80yHyU2h/view?usp=sharing" target="_blank">Developing a Data Pipeline for Global-Scale Biomass Mapping</a> (2024)
 * Nial Perry (MSc Thesis), <a href="https://drive.google.com/file/d/1nelZxR3u0_i0buubRSMh_8Um5go02oWb/view?usp=sharing" target="_blank">Optimizing Biomass Insights: A Multi-Armed Bandit Approach to Coreset Selection</a> (2024)
