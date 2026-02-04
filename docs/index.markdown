@@ -46,19 +46,33 @@ layout: default
 <div style="height: 250px; overflow-y: scroll; border: 1px solid #eee; padding: 15px; border-radius: 8px; background-color: #fafafa;">
 
 * **January 2026** — Moderated a panel on Sustainable AI at the AI House Davos. Watch the [recording](https://www.youtube.com/watch?v=qLu7L8g-Wy4).
+
 * **December 2025** — At EurIPS Copenhagen, presenting a poster on our recent work on biomass estimation at the [Workshop on AI for Climate and Conservation](https://sites.google.com/g.harvard.edu/aicceurips).
+
 * **October 2025** — Chairing the [AI + Environment Summit 2025](https://ai-environment-summit.com/)! Watch the [recordings](https://www.youtube.com/playlist?list=PLHeEcDvb8uC_5L3Ie4xb7UFMjTAIySInq).
+
 * **June 2025** — At the [Living Planet Symposium](https://lps25.esa.int/) in Vienna presenting a poster on Forest Ecosystems.
+
 * **April 2025** — Invited talk for the [RISE Learning Machines](https://www.ri.se/en/learningmachinesseminars) series. Watch the [recording](https://www.youtube.com/watch?v=mN0ENzlrUJE&list=PLqLiVcF3GKy1tuQFoDu5QKOM6S33t_4R1&index=14).
+
 * **April 2025** — Poster presentation at [Women in Data Science](https://www.wids.ch/) Zurich.
+
 * **April 2025** — Oral Presentation at ISPRS GSW25 for our AGBD paper.
+
 * **February 2025** — AGBD dataset featured in the [Climate Change AI newsletter](https://mailchi.mp/3c2a6a700b85/climate-change-ai-newsletter-april-5844816?e=e3c5cd8083).
+
 * **January 2025** — First publication accepted to [ISPRS Geospatial Week 2025](https://gsw2025.ae/).
+
 * **January 2025** — Tutorial on Generalization in ML for the [eval.science Primer series](https://docs.eval.science/learn/primer).
+
 * **October 2024** — Chairing the [AI + Environment Summit 2024](https://summit.biodivx.org/).
+
 * **September 2024** — Attending ECCV.
+
 * **May 2024** — Supporting the [AI + Environment Hackathon](https://hack.biodivx.org/).
+
 * **November 2023** — Supporting the AI + Environment Summit 2023.
+
 * **September 2023** — Starting my PhD at ETH!
 
 </div>
