@@ -43,7 +43,8 @@ layout: default
 
 
 ## 🔥 news
-<div style="height: 250px; overflow-y: scroll; border: 1px solid #eee; padding: 15px; border-radius: 8px; background-color: #fafafa;">
+
+<div markdown="1" style="height: 250px; overflow-y: scroll; border: 1px solid #eee; padding: 15px; border-radius: 8px; background-color: #fafafa;">
 
 * **January 2026** — Moderated a panel on Sustainable AI at the AI House Davos. Watch the [recording](https://www.youtube.com/watch?v=qLu7L8g-Wy4).
 
