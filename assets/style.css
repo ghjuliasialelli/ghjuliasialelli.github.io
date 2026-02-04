@@ -1,0 +1,34 @@
+/* Custom news box for the PhD Portfolio */
+.news-container {
+  display: block;          /* Forces it to act as a box */
+  max-height: 250px;       /* Limits the height */
+  overflow-y: auto;        /* Adds scrollbar ONLY if content is too long */
+  overflow-x: hidden;      /* Prevents weird horizontal shifting */
+  border: 1px solid #eee;
+  padding: 15px;
+  border-radius: 8px;
+  background-color: #fafafa;
+  margin-bottom: 20px;
+}
+
+/* This ensures the list doesn't have weird default margins */
+.news-container ul {
+  margin: 0;
+  padding-left: 20px;
+}
+
+.news-container li {
+  margin-bottom: 12px;
+  line-height: 1.5;
+  color: #333;
+}
+
+/* Optional: change link color inside the news box */
+.news-container a {
+  color: #0076df;
+  text-decoration: none;
+}
+
+.news-container a:hover {
+  text-decoration: underline;
+}
