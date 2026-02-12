@@ -49,6 +49,7 @@ layout: default
 
 <div style="height: 250px; overflow-y: scroll; border: 1px solid #eee; padding: 15px; border-radius: 8px; background-color: #fafafa; display: block !important;">
   <ul style="list-style-type: disc !important; padding-left: 20px; margin: 0;">
+    <li style="margin-bottom: 10px;"><strong>March - June 2025</strong> — Research stay at the <a href="https://ridr.se/">Deep Learning Research Group at RISE</a>, hosted by Dr. Olof Mogren.</li>
     <li style="margin-bottom: 10px;"><strong>January 2026</strong> — Moderated a panel on Sustainable AI at the AI House Davos. Watch the <a href="https://www.youtube.com/watch?v=qLu7L8g-Wy4">recording</a>.</li>
     <li style="margin-bottom: 10px;"><strong>December 2025</strong> — At EurIPS Copenhagen, presenting a poster at the <a href="https://sites.google.com/g.harvard.edu/aicceurips">Workshop</a>.</li>
     <li style="margin-bottom: 10px;"><strong>October 2025</strong> — Chairing the <a href="https://ai-environment-summit.com/">AI + Environment Summit 2025</a>!</li>
@@ -71,7 +72,7 @@ layout: default
 
 ## 👩‍🎓 supervision
 
-If you are a student interested in working on any of the following topics, feel free to reach out! Topics: super-resolution of remote-sensing products; long-tail distributions; 
+If you are a student interested in working on any of the following topics, feel free to reach out! Topics: super-resolution of remote-sensing products; long-tail distributions; multi-task learning; geospatial foundation models.
 
 Past students
 * Chunyang Gao and Dominik Senti (MSc Semester Project), <a href="https://drive.google.com/file/d/1OlnVD6Fw6mD9KA-Fq-QacB2tlwu_EzBE/view?usp=sharing" target="_blank">ICESat-2 spaceborne LiDAR as complementary data source for biomass mapping</a> (2024)
