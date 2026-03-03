@@ -83,6 +83,34 @@ Past students
 
 <br />
 
+## 🤝 scientific service
+
+**Reviewing**
+* Climate Informatics (2026)
+* AI for Public Goods Fast Grants (AI4PG) program (2026)
+* Mountain Research and Development Journal (2026)
+* EurIPS Workshop on Advances in Representation Learning for Earth Observation (2025)
+* CCAI Innovation Grants (2024)
+* NeurIPS workshop on Bayesian Decision-making and Uncertainty (2024)
+
+**Event organization**
+* AI + Environment Summit (2023-2024-2025-2026)
+* AI + Environment Hackathon (2024)
+
+**Teaching**
+* Image-Based Mapping, MSc course, 5ECTS (2023-2024-2025) (Teaching Assistant)
+
+
+<br />
+
+## 🎤 talks
+
+* Moderator for the  <a href="https://www.youtube.com/watch?v=qLu7L8g-Wy4" target="_blank">AI House Davos 2026 panel on Sustainable AI: From Climate Science to Efficient Computing</a> (2026)
+* Invited speaker for the <a href="https://www.ri.se/en/learningmachinesseminars">RISE Learning Machines</a> seminar series (2025)
+* Oral presentation at ISPRS GSW25
+
+<br />
+
 ## 📰 media
 * <a href="https://ethz-foundation.ch/en/spotlight/uplift-20-ghjulia-sialelli-precision-for-the-planet/" target="_blank">Portrait: Precision for the planet</a>, by Andrea Zeller for the ETH Foundation Uplift magazine
 
