@@ -18,6 +18,62 @@ layout: default
 <br />
 
 ## 📝 publications
+
+<div style="display: flex; align-items: center; gap: 24px; padding: 16px; border-radius: 16px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);">
+
+  <!-- Image on the left -->
+  <img src="./img/placeholder.png" alt="AGBD diagram" style="width: 350px; border-radius: 0px;">
+
+  <!-- Text on the right -->
+  <div>
+    <p style="margin: 0; font-size: 16px;">
+      <strong>From Machine Learning to large-scale EO products: Best Practices and Guidelines for making Maps</strong> <span style="color: DarkBlue;">(In preperation)</span><br>
+      <br>
+      <strong>Ghjulia Sialelli</strong> et al.
+    </p>
+
+  </div>
+
+</div>
+
+<div style="display: flex; align-items: center; gap: 24px; padding: 16px; border-radius: 16px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);">
+
+  <!-- Image on the left -->
+  <img src="./img/pareto_color.png" alt="AGBD diagram" style="width: 350px; border-radius: 0px;">
+
+  <!-- Text on the right -->
+  <div>
+    <p style="margin: 0; font-size: 16px;">
+      <strong>Above-ground biomass estimation with Geospatial Foundation Models</strong><br>
+      <span style="color: DarkBlue;">(In preparation)</span><br>
+      <br>
+      <strong>Ghjulia Sialelli</strong>, Linus Scheibenreif, Jan D. Wegner, Konrad Schindler
+    </p>
+
+  </div>
+
+</div>
+
+<div style="display: flex; align-items: center; gap: 24px; padding: 16px; border-radius: 16px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);">
+
+  <!-- Image on the left -->
+  <img src="./img/overview.png" alt="AGBD diagram" style="width: 350px; border-radius: 0px;">
+
+  <!-- Text on the right -->
+  <div>
+    <p style="margin: 0; font-size: 16px;">
+      <strong>Gaussian Process Regression for Bias Correction of Satellite-based Biomass Estimates</strong> <span style="color: DarkBlue;">(Under review)</span><br>
+      <br>
+      <strong>Ghjulia Sialelli</strong>, Torben Peters, Linus Scheibenreif, Jan D. Wegner, Konrad Schindler
+    </p>
+    <br>
+    <p style="margin: 0;">
+      To address the spatially structured residuals and biases typical of large-scale AGB products, we develop a post-hoc calibration scheme using Gaussian Process Regression.
+    </p>
+  </div>
+
+</div>
+
 <div style="display: flex; align-items: center; gap: 24px; padding: 16px; border-radius: 16px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);">
 
   <!-- Image on the left -->
@@ -37,6 +93,29 @@ layout: default
     </p>
     <p style="margin: 0;">
       We introduce a ML-ready dataset and benchmark models, for dense high-resolution global biomass estimation.
+    </p>
+  </div>
+
+</div>
+
+<div style="display: flex; align-items: center; gap: 24px; padding: 16px; border-radius: 16px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);">
+
+  <!-- Image on the left -->
+  <img src="./img/displacement.jpg" alt="AGBD diagram" style="width: 350px; border-radius: 0px;">
+
+  <!-- Text on the right -->
+  <div>
+    <p style="margin: 0; font-size: 16px;">
+      <strong>Disaster Displacement in Asia and the Pacific</strong> (2022)<br>
+      <p style="margin: 0; font-size: 10px;">
+      Direction and project management: Alexandra Bilak, Bina Desai, and Christelle Cazabat. Project Coordination: Vicente Anzellini and Fanny Teppe. Drafting and Research: Vicente Anzellini, Christelle Cazabat, Pablo Cortés Ferrández, Ricardo Fal-Dutra Santos, Vincent Fung, Kathryn Giffin, Thannaletchimy Housset, Alesia O’Connor, Fanny Teppe, and Louisa Yasukawa. Data and Analysis: Sylvain Ponserre, <strong>Ghjulia Sialelli</strong> and Fanny Teppe. Design, layout, maps and graphs: Vivcie Bendo, Stéphane Kluser (Komplo), Emiliano Pérez, Sylvain Ponserre. Editor: Melanie Kelleher
+      </p>
+    </p>
+    <p style="margin: 8px 0;">
+      <a href="https://www.internal-displacement.org/disaster-displacement-in-asia-and-the-pacific-2022/" style="background-color: #f47cb4; color: white; padding: 4px 8px; border-radius: 8px; text-decoration: none; font-weight: bold;">🔗 Report</a>
+    </p>
+    <p style="margin: 0;">
+      This report presents the disaster displacement trends in the region during 2010−2021 and provides insights into its social and economic impacts.
     </p>
   </div>
 
