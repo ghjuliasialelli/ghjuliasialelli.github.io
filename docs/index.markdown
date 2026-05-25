@@ -27,7 +27,7 @@ layout: default
   <!-- Text on the right -->
   <div>
     <p style="margin: 0; font-size: 16px;">
-      <strong>From Machine Learning to large-scale EO products: Best Practices and Guidelines for making Maps</strong> <span style="color: DarkBlue;">(In preperation)</span><br>
+      <strong>From Machine Learning to large-scale EO products: Best Practices and Guidelines for making Maps</strong> <span style="color: DarkBlue;">(In preparation)</span><br>
       <br>
       <strong>Ghjulia Sialelli</strong> et al.
     </p>
@@ -131,13 +131,13 @@ layout: default
     <li style="margin-bottom: 10px;"><strong>March - June 2026</strong> — Research stay at the <a href="https://ridr.se/">Deep Learning Research Group at RISE</a>, hosted by Dr. Olof Mogren.</li>
     <li style="margin-bottom: 10px;"><strong>February 2026</strong> — Presented my research on large-scale biomass estimation at IBM Research Zurich.</li>
     <li style="margin-bottom: 10px;"><strong>January 2026</strong> — Moderated a panel on Sustainable AI at the AI House Davos. Watch the <a href="https://www.youtube.com/watch?v=qLu7L8g-Wy4">recording</a>.</li>
-    <li style="margin-bottom: 10px;"><strong>December 2025</strong> — At EurIPS Copenhagen, presenting a poster at the <a href="https://sites.google.com/g.harvard.edu/aicceurips">Workshop</a>.</li>
+    <li style="margin-bottom: 10px;"><strong>December 2025</strong> — At EurIPS Copenhagen, presenting a poster at the <a href="https://sites.google.com/g.harvard.edu/aicceurips">Workshop on AI for Climate and Conservation</a>.</li>
     <li style="margin-bottom: 10px;"><strong>October 2025</strong> — Chairing the <a href="https://ai-environment-summit.com/">AI + Environment Summit 2025</a>!</li>
     <li style="margin-bottom: 10px;"><strong>June 2025</strong> — At the <a href="https://lps25.esa.int/">Living Planet Symposium</a> in Vienna.</li>
     <li style="margin-bottom: 10px;"><strong>April 2025</strong> — Invited talk for the <a href="https://www.ri.se/en/learningmachinesseminars">RISE Learning Machines</a>.</li>
     <li style="margin-bottom: 10px;"><strong>April 2025</strong> — Poster at <a href="https://www.wids.ch/">WiDS Zurich</a>.</li>
     <li style="margin-bottom: 10px;"><strong>April 2025</strong> — Oral Presentation at ISPRS GSW25.</li>
-    <li style="margin-bottom: 10px;"><strong>February 2025</strong> — Featured in <a href="https://mailchi.mp/3c2a6a700b85/climate-change-ai-newsletter-april-5844816?e=e3c5cd8083">CCAI newsletter</a>.</li>
+    <li style="margin-bottom: 10px;"><strong>February 2025</strong> — Featured in the <a href="https://mailchi.mp/3c2a6a700b85/climate-change-ai-newsletter-april-5844816?e=e3c5cd8083">CCAI newsletter</a>.</li>
     <li style="margin-bottom: 10px;"><strong>January 2025</strong> — Publication accepted to <a href="https://gsw2025.ae/">ISPRS GSW 2025</a>.</li>
     <li style="margin-bottom: 10px;"><strong>January 2025</strong> — Tutorial for <a href="https://docs.eval.science/learn/primer">eval.science</a>.</li>
     <li style="margin-bottom: 10px;"><strong>October 2024</strong> — Chairing <a href="https://summit.biodivx.org/">AI + Environment Summit 2024</a>.</li>
