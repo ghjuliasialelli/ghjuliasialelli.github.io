@@ -44,7 +44,7 @@ layout: default
   <!-- Text on the right -->
   <div>
     <p style="margin: 0; font-size: 16px;">
-      <strong>Above-ground biomass estimation with Geospatial Foundation Models</strong><br>
+      <strong>Above-ground Biomass Estimation with Geospatial Foundation Models</strong><br>
       <span style="color: DarkBlue;">(In preparation)</span><br>
       <br>
       <strong>Ghjulia Sialelli</strong>, Linus Scheibenreif, Jan D. Wegner, Konrad Schindler
