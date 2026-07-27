@@ -165,6 +165,7 @@ Past students
 ## 🤝 scientific service
 
 **Reviewing**
+* ECCV Workshop TerraBytes II (2026)
 * Climate Informatics (2026)
 * AI for Public Goods Fast Grants (AI4PG) program (2026)
 * Mountain Research and Development Journal (2026)
@@ -177,7 +178,7 @@ Past students
 * AI + Environment Hackathon (2024)
 
 **Teaching**
-* Image-Based Mapping, MSc course, 5ECTS (2023-2024-2025) (Teaching Assistant)
+* Image-Based Mapping, MSc course, 5ECTS (2023-2024-2025-2026) (Head Teaching Assistant)
 
 
 <br />
