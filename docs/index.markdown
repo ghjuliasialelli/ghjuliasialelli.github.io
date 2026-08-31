@@ -31,6 +31,9 @@ layout: default
       <br>
       <strong>Ghjulia Sialelli</strong> et al.
     </p>
+  <p style="margin: 8px 0;">
+    <a href="https://ghjuliasialelli.github.io/ML-EO-Maps/" style="background-color:rgb(26, 207, 102); color: white; padding: 4px 8px; border-radius: 8px; text-decoration: none; font-weight: bold;">🔗 Project website</a>
+  </p>
 
   </div>
 
@@ -45,9 +48,15 @@ layout: default
   <div>
     <p style="margin: 0; font-size: 16px;">
       <strong>Above-ground Biomass Estimation with Geospatial Foundation Models</strong><br>
-      <span style="color: DarkBlue;">(In preparation)</span><br>
+      <span style="color: DarkBlue;">(Under review)</span><br>
       <br>
       <strong>Ghjulia Sialelli</strong>, Linus Scheibenreif, Jan D. Wegner, Konrad Schindler
+    </p>
+    <p style="margin: 8px 0;">
+      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7213886" style="background-color: #f47cb4; color: white; padding: 4px 8px; border-radius: 8px; text-decoration: none; font-weight: bold;">🔗 Preprint</a>
+    </p>
+    <p style="margin: 8px 0;">
+      <a href="https://agbd-gfm.github.io/" style="background-color:rgb(26, 207, 102); color: white; padding: 4px 8px; border-radius: 8px; text-decoration: none; font-weight: bold;">🔗 Project website</a>
     </p>
 
   </div>
@@ -65,6 +74,9 @@ layout: default
       <strong>Gaussian Process Regression for Bias Correction of Satellite-based Biomass Estimates</strong> <span style="color: DarkBlue;">(Under review)</span><br>
       <br>
       <strong>Ghjulia Sialelli</strong>, Torben Peters, Linus Scheibenreif, Jan D. Wegner, Konrad Schindler
+    </p>
+    <p style="margin: 8px 0;">
+      <a href="https://drive.google.com/file/d/15_c5Kg3aer0wZHh0Z67GAkAKlxjzrYKZ/view?usp=drive_link" style="background-color: #f47cb4; color: white; padding: 4px 8px; border-radius: 8px; text-decoration: none; font-weight: bold;">🔗 Preprint</a>
     </p>
     <br>
     <p style="margin: 0;">
@@ -128,6 +140,7 @@ layout: default
 
 <div style="height: 250px; overflow-y: scroll; border: 1px solid #eee; padding: 15px; border-radius: 8px; background-color: #fafafa; display: block !important;">
   <ul style="list-style-type: disc !important; padding-left: 20px; margin: 0;">
+    <li style="margin-bottom: 10px;"><strong>September 2026</strong> — At ECCV 2026, presenting a poster at the <a href="https://terrabytes-workshop.github.io/">TerraBytes II workshop</a>.</li>
     <li style="margin-bottom: 10px;"><strong>March - June 2026</strong> — Research stay at the <a href="https://ridr.se/">Deep Learning Research Group at RISE</a>, hosted by Dr. Olof Mogren.</li>
     <li style="margin-bottom: 10px;"><strong>February 2026</strong> — Presented my research on large-scale biomass estimation at IBM Research Zurich.</li>
     <li style="margin-bottom: 10px;"><strong>January 2026</strong> — Moderated a panel on Sustainable AI at the AI House Davos. Watch the <a href="https://www.youtube.com/watch?v=qLu7L8g-Wy4">recording</a>.</li>
@@ -166,6 +179,7 @@ Past students
 
 **Reviewing**
 * ECCV Workshop TerraBytes II (2026)
+* Environmental Data Science Journal (2026)
 * Climate Informatics (2026)
 * AI for Public Goods Fast Grants (AI4PG) program (2026)
 * Mountain Research and Development Journal (2026)
