@@ -207,6 +207,7 @@ Past students
 
 ## 📰 media
 * <a href="https://ethz-foundation.ch/en/spotlight/uplift-20-ghjulia-sialelli-precision-for-the-planet/" target="_blank">Portrait: Precision for the planet</a>, by Andrea Zeller for the ETH Foundation Uplift magazine
+* Our work on large-scale mapping from EO/ML was featured in the <a href="https://open.substack.com/pub/yohaniddawela/p/how-to-turn-a-machine-learning-model?r=41ybvp&utm_campaign=post-expanded-share&utm_medium=web" target="_blank">Spatial Edge newsletter</a>
 
 <br />
 
