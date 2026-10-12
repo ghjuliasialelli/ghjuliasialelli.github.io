@@ -6,7 +6,7 @@ layout: default
   <img src="./img/AIC_headshot_small.jpg" alt="Headshot" style="width:150px; border-radius: 100px; margin-right: 20px;">
     <div>
     <p>
-        I am a third year <a href="https://ai.ethz.ch/" target="_blank">ETH AI Center</a> Doctoral fellow, supervised by Prof. Konrad Schindler (ETH, <a href="https://prs.igp.ethz.ch/" target="_blank">PRS</a>) and Prof. Jan Dirk Wegner (UZH, <a href="https://dm3l.uzh.ch/wegner" target="_blank">Ecovision</a>). My research lies at the frontier of computer vision and remote sensing to solve scientific questions in the environmental sciences. In particular, my current work focuses on high-resolution global mapping of above-ground biomass.
+        I am a fourth year <a href="https://ai.ethz.ch/" target="_blank">ETH AI Center</a> Doctoral fellow, supervised by Prof. Konrad Schindler (ETH, <a href="https://prs.igp.ethz.ch/" target="_blank">PRS</a>) and Prof. Jan Dirk Wegner (UZH, <a href="https://dm3l.uzh.ch/wegner" target="_blank">Ecovision</a>). My research lies at the frontier of computer vision and remote sensing to solve scientific questions in the environmental sciences. In particular, my current work focuses on high-resolution (10m) global mapping of above-ground biomass.
         <br><br>
         I am also the co-founder and an active member of the AI + Environment Summit, a non-profit that organizes the <a href="https://ai-environment-summit.com/" target="_blank">eponymous event</a>. 
         <br><br>
@@ -22,7 +22,7 @@ layout: default
 <div style="display: flex; align-items: center; gap: 24px; padding: 16px; border-radius: 16px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);">
 
   <!-- Image on the left -->
-  <img src="./img/placeholder.png" alt="AGBD diagram" style="width: 350px; border-radius: 0px;">
+  <img src="./img/pipeline.png" alt="AGBD diagram" style="width: 350px; border-radius: 0px;">
 
   <!-- Text on the right -->
   <div>
@@ -34,7 +34,9 @@ layout: default
   <p style="margin: 8px 0;">
     <a href="https://ghjuliasialelli.github.io/ML-EO-Maps/" style="background-color:rgb(26, 207, 102); color: white; padding: 4px 8px; border-radius: 8px; text-decoration: none; font-weight: bold;">🔗 Project website</a>
   </p>
-
+    <p style="margin: 8px 0;">
+      <a href="https://arxiv.org/abs/2607.24532" style="background-color: #7cacf4; color: white; padding: 4px 8px; border-radius: 8px; text-decoration: none; font-weight: bold;">🔗 ECCV workshop paper</a>
+  </p>
   </div>
 
 </div>
@@ -42,7 +44,7 @@ layout: default
 <div style="display: flex; align-items: center; gap: 24px; padding: 16px; border-radius: 16px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);">
 
   <!-- Image on the left -->
-  <img src="./img/pareto_color.png" alt="AGBD diagram" style="width: 350px; border-radius: 0px;">
+  <img src="./img/fig_benchmark.png" alt="AGBD diagram" style="width: 350px; border-radius: 0px;">
 
   <!-- Text on the right -->
   <div>
@@ -57,6 +59,9 @@ layout: default
     </p>
     <p style="margin: 8px 0;">
       <a href="https://agbd-gfm.github.io/" style="background-color:rgb(26, 207, 102); color: white; padding: 4px 8px; border-radius: 8px; text-decoration: none; font-weight: bold;">🔗 Project website</a>
+    </p>
+    <p style="margin: 8px 0;">
+      <a href="https://drive.google.com/file/d/1jXPGF0DWUR3H9wAsccZm-jbJC9XXyJyR/view?usp=sharing" style="background-color: #7cacf4; color: white; padding: 4px 8px; border-radius: 8px; text-decoration: none; font-weight: bold;">🔗 NeurIPS workshop paper</a>
     </p>
 
   </div>
@@ -140,12 +145,13 @@ layout: default
 
 <div style="height: 250px; overflow-y: scroll; border: 1px solid #eee; padding: 15px; border-radius: 8px; background-color: #fafafa; display: block !important;">
   <ul style="list-style-type: disc !important; padding-left: 20px; margin: 0;">
+  <li style="margin-bottom: 10px;"><strong>October 2025</strong> — Chairing the <a href="https://ai-environment-summit.com/">AI + Environment Summit 2026</a>!</li>
     <li style="margin-bottom: 10px;"><strong>September 2026</strong> — At ECCV 2026, presenting a poster at the <a href="https://terrabytes-workshop.github.io/">TerraBytes II workshop</a>.</li>
     <li style="margin-bottom: 10px;"><strong>March - June 2026</strong> — Research stay at the <a href="https://ridr.se/">Deep Learning Research Group at RISE</a>, hosted by Dr. Olof Mogren.</li>
     <li style="margin-bottom: 10px;"><strong>February 2026</strong> — Presented my research on large-scale biomass estimation at IBM Research Zurich.</li>
     <li style="margin-bottom: 10px;"><strong>January 2026</strong> — Moderated a panel on Sustainable AI at the AI House Davos. Watch the <a href="https://www.youtube.com/watch?v=qLu7L8g-Wy4">recording</a>.</li>
     <li style="margin-bottom: 10px;"><strong>December 2025</strong> — At EurIPS Copenhagen, presenting a poster at the <a href="https://sites.google.com/g.harvard.edu/aicceurips">Workshop on AI for Climate and Conservation</a>.</li>
-    <li style="margin-bottom: 10px;"><strong>October 2025</strong> — Chairing the <a href="https://ai-environment-summit.com/">AI + Environment Summit 2025</a>!</li>
+    <li style="margin-bottom: 10px;"><strong>October 2025</strong> — Chairing the <a href="https://ai-environment-summit.com/archive-2025/">AI + Environment Summit 2025</a>!</li>
     <li style="margin-bottom: 10px;"><strong>June 2025</strong> — At the <a href="https://lps25.esa.int/">Living Planet Symposium</a> in Vienna.</li>
     <li style="margin-bottom: 10px;"><strong>April 2025</strong> — Invited talk for the <a href="https://www.ri.se/en/learningmachinesseminars">RISE Learning Machines</a>.</li>
     <li style="margin-bottom: 10px;"><strong>April 2025</strong> — Poster at <a href="https://www.wids.ch/">WiDS Zurich</a>.</li>
@@ -178,6 +184,9 @@ Past students
 ## 🤝 scientific service
 
 **Reviewing**
+* WACV 4th Workshop on Computer Vision for Earth Observation (CV4EO) (2027)
+* NeurIPS Workshop Trustworthy AI for Good (2026)
+* NeurIPS 2nd Workshop on Advances in Representation Learning for Earth Observation (2026) 
 * ECCV Workshop TerraBytes II (2026)
 * Environmental Data Science Journal (2026)
 * Climate Informatics (2026)
