@@ -49,7 +49,7 @@ layout: default
   <!-- Text on the right -->
   <div>
     <p style="margin: 0; font-size: 16px;">
-      <strong>Above-ground Biomass Estimation with Geospatial Foundation Models</strong><br>
+      <strong>Multi-Modal, Multi-Temporal Geospatial Foundation Models Improve Global Above-Ground Biomass Estimation</strong><br>
       <span style="color: DarkBlue;">(Under review)</span><br>
       <br>
       <strong>Ghjulia Sialelli</strong>, Linus Scheibenreif, Jan D. Wegner, Konrad Schindler
@@ -82,6 +82,9 @@ layout: default
     </p>
     <p style="margin: 8px 0;">
       <a href="https://drive.google.com/file/d/15_c5Kg3aer0wZHh0Z67GAkAKlxjzrYKZ/view?usp=drive_link" style="background-color: #f47cb4; color: white; padding: 4px 8px; border-radius: 8px; text-decoration: none; font-weight: bold;">🔗 Preprint</a>
+    </p>
+      <p style="margin: 8px 0;">
+      <a href="https://agbd-gpr.github.io/" style="background-color:rgb(26, 207, 102); color: white; padding: 4px 8px; border-radius: 8px; text-decoration: none; font-weight: bold;">🔗 Project website</a>
     </p>
     <br>
     <p style="margin: 0;">
