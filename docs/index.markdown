@@ -27,7 +27,7 @@ layout: default
   <!-- Text on the right -->
   <div>
     <p style="margin: 0; font-size: 16px;">
-      <strong>From Machine Learning to large-scale EO products: Best Practices and Guidelines for making Maps</strong> <span style="color: DarkBlue;">(In preparation)</span><br>
+      <strong>From Machine Learning to large-scale EO products: Good Practices and Guidelines for making Maps</strong> <span style="color: DarkBlue;">(In preparation)</span><br>
       <br>
       <strong>Ghjulia Sialelli</strong> et al.
     </p>
@@ -37,6 +37,9 @@ layout: default
     <p style="margin: 8px 0;">
       <a href="https://arxiv.org/abs/2607.24532" style="background-color: #7cacf4; color: white; padding: 4px 8px; border-radius: 8px; text-decoration: none; font-weight: bold;">🔗 ECCV workshop paper</a>
   </p>
+    <p style="margin: 0;">
+      The past decade has seen a rapid expansion in the production of large-scale geospatial products derived from Earth observation (EO) data using machine learning (ML). We present an end-to-end account of good practices, challenges, and common pitfalls that span the entire pipeline from raw satellite data to a published, validated map product.
+    </p>
   </div>
 
 </div>
@@ -63,7 +66,10 @@ layout: default
     <p style="margin: 8px 0;">
       <a href="https://drive.google.com/file/d/1jXPGF0DWUR3H9wAsccZm-jbJC9XXyJyR/view?usp=sharing" style="background-color: #7cacf4; color: white; padding: 4px 8px; border-radius: 8px; text-decoration: none; font-weight: bold;">🔗 NeurIPS workshop paper</a>
     </p>
-
+    <br>
+    <p style="margin: 0;">
+      We benchmark 13 GFMs for AGB estimation and compare them against a fully supervised baseline. Most of the GFMs substantially underperform, whether frozen or fine-tuned; only TESSERA and AlphaEarth Foundations features yield a better performance.
+    </p>
   </div>
 
 </div>
