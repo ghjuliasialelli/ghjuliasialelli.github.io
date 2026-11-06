@@ -22,15 +22,18 @@ layout: default
 <div style="display: flex; align-items: center; gap: 24px; padding: 16px; border-radius: 16px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);">
 
   <!-- Image on the left -->
-  <img src="./img/pipeline.png" alt="AGBD diagram" style="width: 350px; border-radius: 0px;">
+  <img src="./img/overview-v2.png" alt="AGBD diagram" style="width: 350px; border-radius: 0px;">
 
   <!-- Text on the right -->
   <div>
     <p style="margin: 0; font-size: 16px;">
-      <strong>From Machine Learning to large-scale EO products: Good Practices and Guidelines for making Maps</strong> <span style="color: DarkBlue;">(In preparation)</span><br>
+      <strong>From Machine Learning to large-scale EO products: Good Practices and Guidelines for making Maps</strong> <span style="color: DarkBlue;">(Under review)</span><br>
       <br>
       <strong>Ghjulia Sialelli</strong> et al.
     </p>
+  <p style="margin: 8px 0;">
+    <a href="https://arxiv.org/abs/2607.24532" style="background-color: #f47cb4; color: white; padding: 4px 8px; border-radius: 8px; text-decoration: none; font-weight: bold;">🔗 Preprint</a>
+  </p>
   <p style="margin: 8px 0;">
     <a href="https://ghjuliasialelli.github.io/ML-EO-Maps/" style="background-color:rgb(26, 207, 102); color: white; padding: 4px 8px; border-radius: 8px; text-decoration: none; font-weight: bold;">🔗 Project website</a>
   </p>
