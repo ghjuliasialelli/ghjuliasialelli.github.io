@@ -40,6 +40,19 @@ layout: default
     <p style="margin: 8px 0;">
       <a href="https://drive.google.com/file/d/10NAsWw6O9-KfZNz-4aqwVZwkqwgDCdBA/view?usp=sharing" style="background-color: #7cacf4; color: white; padding: 4px 8px; border-radius: 8px; text-decoration: none; font-weight: bold;">🔗 ECCV workshop paper</a>
   </p>
+    <div style="margin: 8px 0;">
+      <button type="button" class="cite-btn cite-open">📑 Cite</button>
+<pre class="bibtex">@misc{sialellieomaps2026,
+  doi = {10.48550/ARXIV.2607.24532},
+  url = {https://arxiv.org/abs/2607.24532},
+  author = {Sialelli,  Ghjulia and Young,  Robin and Aybar,  Cesar and Jiang,  Yuchang and Scheibenreif,  Linus and Robert,  Damien and Mosig,  Clemens and Van Tricht,  Kristof and Czerkawski,  Mikolaj and Tsendbazar,  Nandika and Stewart,  Adam J. and Wegner,  Jan D. and Pirinen,  Aleksis and Mogren,  Olof and Schindler,  Konrad},
+  keywords = {Machine Learning (cs.LG),  FOS: Computer and information sciences},
+  title = {From Machine Learning to Large-Scale EO Products: Good Practices and Guidelines for Making Maps},
+  publisher = {arXiv},
+  year = {2026},
+  copyright = {arXiv.org perpetual,  non-exclusive license}
+}</pre>
+    </div>
     <p style="margin: 0;">
       The past decade has seen a rapid expansion in the production of large-scale geospatial products derived from Earth observation (EO) data using machine learning (ML). We present an end-to-end account of good practices, challenges, and common pitfalls that span the entire pipeline from raw satellite data to a published, validated map product.
     </p>
@@ -69,6 +82,19 @@ layout: default
     <p style="margin: 8px 0;">
       <a href="https://drive.google.com/file/d/1jXPGF0DWUR3H9wAsccZm-jbJC9XXyJyR/view?usp=sharing" style="background-color: #7cacf4; color: white; padding: 4px 8px; border-radius: 8px; text-decoration: none; font-weight: bold;">🔗 NeurIPS workshop paper</a>
     </p>
+    <div style="margin: 8px 0;">
+      <button type="button" class="cite-btn cite-open">📑 Cite</button>
+<pre class="bibtex">@misc{sialelligfms2026,
+  doi = {10.48550/ARXIV.2608.04792},
+  url = {https://arxiv.org/abs/2608.04792},
+  author = {Sialelli,  Ghjulia and Scheibenreif,  Linus and Wegner,  Jan Dirk and Schindler,  Konrad},
+  keywords = {Machine Learning (cs.LG),  FOS: Computer and information sciences},
+  title = {Multi-Modal,  Multi-Temporal Geospatial Foundation Models Improve Global Above-Ground Biomass Estimation},
+  publisher = {arXiv},
+  year = {2026},
+  copyright = {Creative Commons Attribution 4.0 International}
+}</pre>
+    </div>
     <br>
     <p style="margin: 0;">
       We benchmark 13 GFMs for AGB estimation and compare them against a fully supervised baseline. Most of the GFMs substantially underperform, whether frozen or fine-tuned; only TESSERA and AlphaEarth Foundations features yield a better performance.
@@ -95,6 +121,15 @@ layout: default
       <p style="margin: 8px 0;">
       <a href="https://agbd-gpr.github.io/" style="background-color:rgb(26, 207, 102); color: white; padding: 4px 8px; border-radius: 8px; text-decoration: none; font-weight: bold;">🔗 Project website</a>
     </p>
+    <div style="margin: 8px 0;">
+      <button type="button" class="cite-btn cite-open">📑 Cite</button>
+<pre class="bibtex">@unpublished{sialelli2026gpr,
+  author = {Sialelli, Ghjulia and Peters, Torben and Scheibenreif, Linus and Wegner, Jan Dirk and Schindler, Konrad},
+  title  = {Gaussian Process Regression for Bias Correction of Satellite-based Biomass Estimates},
+  note   = {Manuscript under review},
+  year   = {2026}
+}</pre>
+    </div>
     <br>
     <p style="margin: 0;">
       To address the spatially structured residuals and biases typical of large-scale AGB products, we develop a post-hoc calibration scheme using Gaussian Process Regression.
@@ -120,6 +155,19 @@ layout: default
     <p style="margin: 8px 0;">
       <a href="https://agbdataset.github.io/" style="background-color:rgb(26, 207, 102); color: white; padding: 4px 8px; border-radius: 8px; text-decoration: none; font-weight: bold;">🔗 Project website</a>
     </p>
+    <div style="margin: 8px 0;">
+      <button type="button" class="cite-btn cite-open">📑 Cite</button>
+<pre class="bibtex">@Article{isprs-annals-X-G-2025-829-2025,
+AUTHOR = {Sialelli, G. and Peters, T. and Wegner, J. D. and Schindler, K.},
+TITLE = {AGBD: A Global-scale Biomass Dataset},
+JOURNAL = {ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
+VOLUME = {X-G-2025},
+YEAR = {2025},
+PAGES = {829--838},
+URL = {https://isprs-annals.copernicus.org/articles/X-G-2025/829/2025/},
+DOI = {10.5194/isprs-annals-X-G-2025-829-2025}
+}</pre>
+    </div>
     <p style="margin: 0;">
       We introduce a ML-ready dataset and benchmark models, for dense high-resolution global biomass estimation.
     </p>
@@ -267,3 +315,92 @@ Past students
     </td>
   </tr>
 </table>
+
+<dialog id="cite-dialog" aria-labelledby="cite-dialog-title">
+  <div class="cite-dialog-body">
+    <div class="cite-dialog-header">
+      <strong id="cite-dialog-title">BibTeX</strong>
+      <button type="button" id="cite-dialog-close" aria-label="Close">×</button>
+    </div>
+    <pre id="cite-dialog-text"></pre>
+    <button type="button" id="cite-dialog-copy" class="cite-btn">Copy</button>
+  </div>
+</dialog>
+
+<style>
+  .cite-btn {
+    background-color: #a98cf4;
+    color: white;
+    padding: 4px 8px;
+    border: none;
+    border-radius: 8px;
+    font: inherit;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  .bibtex { display: none; }
+  #cite-dialog {
+    width: min(640px, calc(100vw - 32px));
+    margin: auto;
+    padding: 0;
+    border: none;
+    border-radius: 16px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+  #cite-dialog::backdrop { background: rgba(0, 0, 0, 0.4); }
+  .cite-dialog-body { padding: 16px; }
+  .cite-dialog-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;
+  }
+  #cite-dialog-close {
+    background: none;
+    border: none;
+    font-size: 24px;
+    line-height: 1;
+    cursor: pointer;
+  }
+  #cite-dialog-text {
+    margin: 0 0 12px;
+    max-height: 60vh;
+    overflow-y: auto;
+    font-size: 13px;
+    white-space: pre-wrap;
+    overflow-wrap: anywhere;
+  }
+</style>
+
+<script>
+  (function () {
+    var dialog = document.getElementById('cite-dialog');
+    var text = document.getElementById('cite-dialog-text');
+    var copy = document.getElementById('cite-dialog-copy');
+
+    document.querySelectorAll('.cite-open').forEach(function (button) {
+      button.addEventListener('click', function () {
+        text.textContent = button.nextElementSibling.textContent;
+        copy.textContent = 'Copy';
+        dialog.showModal();
+      });
+    });
+
+    document.getElementById('cite-dialog-close').addEventListener('click', function () {
+      dialog.close();
+    });
+
+    // The dialog has no padding of its own, so this only fires on the backdrop.
+    dialog.addEventListener('click', function (event) {
+      if (event.target === dialog) dialog.close();
+    });
+
+    copy.addEventListener('click', function () {
+      navigator.clipboard.writeText(text.textContent).then(function () {
+        copy.textContent = 'Copied!';
+      }, function () {
+        copy.textContent = 'Copy failed';
+      });
+    });
+  })();
+</script>
