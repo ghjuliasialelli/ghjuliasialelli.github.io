@@ -38,7 +38,7 @@ layout: default
     <a href="https://ghjuliasialelli.github.io/ML-EO-Maps/" style="background-color:rgb(26, 207, 102); color: white; padding: 4px 8px; border-radius: 8px; text-decoration: none; font-weight: bold;">🔗 Project website</a>
   </p>
     <p style="margin: 8px 0;">
-      <a href="https://arxiv.org/abs/2607.24532" style="background-color: #7cacf4; color: white; padding: 4px 8px; border-radius: 8px; text-decoration: none; font-weight: bold;">🔗 ECCV workshop paper</a>
+      <a href="https://drive.google.com/file/d/10NAsWw6O9-KfZNz-4aqwVZwkqwgDCdBA/view?usp=sharing" style="background-color: #7cacf4; color: white; padding: 4px 8px; border-radius: 8px; text-decoration: none; font-weight: bold;">🔗 ECCV workshop paper</a>
   </p>
     <p style="margin: 0;">
       The past decade has seen a rapid expansion in the production of large-scale geospatial products derived from Earth observation (EO) data using machine learning (ML). We present an end-to-end account of good practices, challenges, and common pitfalls that span the entire pipeline from raw satellite data to a published, validated map product.
