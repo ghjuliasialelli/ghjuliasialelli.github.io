@@ -4,6 +4,6 @@ title: Curriculum vitæ
 permalink: /cv/
 ---
 
-You can find my complete CV [here](https://drive.google.com/file/d/1X9ZkdsGNMbTeuOmY_CAzj9jc_BhpRvTn/view?usp=sharing).
+You can find my complete CV [here](https://drive.google.com/file/d/1P18vk6Oreg4l3IAXZ9yFazaMsgUh_tkk/view?usp=sharing).
 
-Last update: January 2025.
+Last update: November 2026.
